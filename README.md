@@ -1,3 +1,5 @@
+将训练和测试数据分成24:1：
+
 链接：https://pan.baidu.com/s/1IT7ZAapl9Zi7GnOZ1JqcoQ 
 提取码：s0kx
 
